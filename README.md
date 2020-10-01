@@ -1,2 +1,2 @@
 # imp-hacktoberfest
-It is only for hactoberfest
+It is not only for hactoberfest
